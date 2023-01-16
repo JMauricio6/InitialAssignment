@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.11" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\InitialAssignment.CRUD.BusinecLogic\InitialAssignment.CRUD.BusinecLogic.csproj" />
     <ProjectReference Include="..\InitialAssignment.CRUD.Entities\InitialAssignment.CRUD.Entities.csproj" />
   </ItemGroup>

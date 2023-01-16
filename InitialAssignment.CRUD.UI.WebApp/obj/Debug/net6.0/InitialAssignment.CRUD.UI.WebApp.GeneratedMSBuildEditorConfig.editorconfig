@@ -16,6 +16,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.UI.WebApp
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/jmaur/OneDrive/Escritorio/Asignacion_CRUD/InitialAssignment/InitialAssignment.CRUD.UI.WebApp/Views/Book/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jmaur/OneDrive/Escritorio/Asignacion_CRUD/InitialAssignment/InitialAssignment.CRUD.UI.WebApp/Views/Book/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jmaur/OneDrive/Escritorio/Asignacion_CRUD/InitialAssignment/InitialAssignment.CRUD.UI.WebApp/Views/Book/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jmaur/OneDrive/Escritorio/Asignacion_CRUD/InitialAssignment/InitialAssignment.CRUD.UI.WebApp/Views/Book/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jmaur/OneDrive/Escritorio/Asignacion_CRUD/InitialAssignment/InitialAssignment.CRUD.UI.WebApp/Views/Book/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/jmaur/OneDrive/Escritorio/Asignacion_CRUD/InitialAssignment/InitialAssignment.CRUD.UI.WebApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
