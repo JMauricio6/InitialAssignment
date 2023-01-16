@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\InitialAssignment.CRUD.BusinecLogic\InitialAssignment.CRUD.BusinecLogic.csproj" />
+    <ProjectReference Include="..\InitialAssignment.CRUD.Entities\InitialAssignment.CRUD.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

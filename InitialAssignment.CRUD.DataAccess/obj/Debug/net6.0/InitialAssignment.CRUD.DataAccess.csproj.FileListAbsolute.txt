@@ -1,0 +1,17 @@
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.DataAccess\bin\Debug\net6.0\InitialAssignment.CRUD.DataAccess.deps.json
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.DataAccess\bin\Debug\net6.0\InitialAssignment.CRUD.DataAccess.runtimeconfig.json
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.DataAccess\bin\Debug\net6.0\InitialAssignment.CRUD.DataAccess.dll
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.DataAccess\bin\Debug\net6.0\InitialAssignment.CRUD.DataAccess.pdb
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.DataAccess\bin\Debug\net6.0\InitialAssignment.CRUD.Entities.dll
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.DataAccess\bin\Debug\net6.0\InitialAssignment.CRUD.Entities.pdb
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.DataAccess\obj\Debug\net6.0\InitialAssignment.CRUD.DataAccess.csproj.AssemblyReference.cache
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.DataAccess\obj\Debug\net6.0\InitialAssignment.CRUD.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.DataAccess\obj\Debug\net6.0\InitialAssignment.CRUD.DataAccess.AssemblyInfoInputs.cache
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.DataAccess\obj\Debug\net6.0\InitialAssignment.CRUD.DataAccess.AssemblyInfo.cs
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.DataAccess\obj\Debug\net6.0\InitialAssignment.CRUD.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.DataAccess\obj\Debug\net6.0\InitialAssignment.CRUD.DataAccess.csproj.CopyComplete
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.DataAccess\obj\Debug\net6.0\InitialAssignment.CRUD.DataAccess.dll
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.DataAccess\obj\Debug\net6.0\refint\InitialAssignment.CRUD.DataAccess.dll
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.DataAccess\obj\Debug\net6.0\InitialAssignment.CRUD.DataAccess.pdb
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.DataAccess\obj\Debug\net6.0\InitialAssignment.CRUD.DataAccess.genruntimeconfig.cache
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.DataAccess\obj\Debug\net6.0\ref\InitialAssignment.CRUD.DataAccess.dll

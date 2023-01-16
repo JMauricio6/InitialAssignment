@@ -1,0 +1,12 @@
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.Entities\bin\Debug\net6.0\InitialAssignment.CRUD.Entities.deps.json
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.Entities\bin\Debug\net6.0\InitialAssignment.CRUD.Entities.dll
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.Entities\bin\Debug\net6.0\InitialAssignment.CRUD.Entities.pdb
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.Entities\obj\Debug\net6.0\InitialAssignment.CRUD.Entities.csproj.AssemblyReference.cache
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.Entities\obj\Debug\net6.0\InitialAssignment.CRUD.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.Entities\obj\Debug\net6.0\InitialAssignment.CRUD.Entities.AssemblyInfoInputs.cache
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.Entities\obj\Debug\net6.0\InitialAssignment.CRUD.Entities.AssemblyInfo.cs
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.Entities\obj\Debug\net6.0\InitialAssignment.CRUD.Entities.csproj.CoreCompileInputs.cache
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.Entities\obj\Debug\net6.0\InitialAssignment.CRUD.Entities.dll
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.Entities\obj\Debug\net6.0\refint\InitialAssignment.CRUD.Entities.dll
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.Entities\obj\Debug\net6.0\InitialAssignment.CRUD.Entities.pdb
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.Entities\obj\Debug\net6.0\ref\InitialAssignment.CRUD.Entities.dll

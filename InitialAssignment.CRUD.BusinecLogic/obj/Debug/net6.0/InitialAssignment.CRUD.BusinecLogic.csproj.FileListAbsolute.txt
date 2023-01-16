@@ -1,0 +1,17 @@
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.BusinecLogic\bin\Debug\net6.0\InitialAssignment.CRUD.BusinecLogic.deps.json
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.BusinecLogic\bin\Debug\net6.0\InitialAssignment.CRUD.BusinecLogic.dll
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.BusinecLogic\bin\Debug\net6.0\InitialAssignment.CRUD.BusinecLogic.pdb
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.BusinecLogic\bin\Debug\net6.0\InitialAssignment.CRUD.DataAccess.dll
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.BusinecLogic\bin\Debug\net6.0\InitialAssignment.CRUD.Entities.dll
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.BusinecLogic\bin\Debug\net6.0\InitialAssignment.CRUD.DataAccess.pdb
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.BusinecLogic\bin\Debug\net6.0\InitialAssignment.CRUD.Entities.pdb
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.BusinecLogic\obj\Debug\net6.0\InitialAssignment.CRUD.BusinecLogic.csproj.AssemblyReference.cache
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.BusinecLogic\obj\Debug\net6.0\InitialAssignment.CRUD.BusinecLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.BusinecLogic\obj\Debug\net6.0\InitialAssignment.CRUD.BusinecLogic.AssemblyInfoInputs.cache
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.BusinecLogic\obj\Debug\net6.0\InitialAssignment.CRUD.BusinecLogic.AssemblyInfo.cs
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.BusinecLogic\obj\Debug\net6.0\InitialAssignment.CRUD.BusinecLogic.csproj.CoreCompileInputs.cache
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.BusinecLogic\obj\Debug\net6.0\InitialAssignment.CRUD.BusinecLogic.csproj.CopyComplete
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.BusinecLogic\obj\Debug\net6.0\InitialAssignment.CRUD.BusinecLogic.dll
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.BusinecLogic\obj\Debug\net6.0\refint\InitialAssignment.CRUD.BusinecLogic.dll
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.BusinecLogic\obj\Debug\net6.0\InitialAssignment.CRUD.BusinecLogic.pdb
+C:\Users\jmaur\OneDrive\Escritorio\Asignacion_CRUD\InitialAssignment\InitialAssignment.CRUD.BusinecLogic\obj\Debug\net6.0\ref\InitialAssignment.CRUD.BusinecLogic.dll
